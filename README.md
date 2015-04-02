@@ -1,4 +1,6 @@
 ## Installation
+
+[![Join the chat at https://gitter.im/xgenvn/InputHelper](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/xgenvn/InputHelper?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Install this repository via [Package Control](http://wbond.net/sublime_packages/package_control)
 
 ## Manual Install
